@@ -6,6 +6,11 @@ In this repository you find all the resources shared from Azure AI.
 
 ## Azure AI Session & Resources
 
+### Day 1
+|   Time     |   Session |   Resources   |
+|   ---      |   ---     |   ---        |
+|  6PM       |  [Azure AI Studio or Copilot Studio](..) | 
+
 ## Community Area Schedule
 
 
