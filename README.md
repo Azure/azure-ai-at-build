@@ -9,7 +9,6 @@ In this repository you find all the resources shared from Azure AI.
 
 
 
-
 ## Trademarks
 
 This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
