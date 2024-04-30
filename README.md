@@ -2,9 +2,13 @@
 
 In this repository you find all the resources shared from Azure AI.
 
-- [Expert Meetup & resources](emu.md)
-- [Azure AI Session & Resources](sessions.md)
-- [Community Area Schedule](community.md)
+## Expert Meetup & resources]
+
+## Azure AI Session & Resources
+
+## Community Area Schedule
+
+
 
 
 
