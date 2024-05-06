@@ -14,7 +14,8 @@ In this repository you find all the resources shared from Azure AI.
 ## Community Area Schedule
 
 
-
+## AI Platform user research panel
+### https://ux.microsoft.com/Panel/AzureAI?utm_campaign=Build&utm_source=Build&utm_medium=Build
 
 
 
