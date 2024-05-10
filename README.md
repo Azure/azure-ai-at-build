@@ -4,6 +4,11 @@ In this repository you find all the resources shared from Azure AI.
 
 ## Expert Meetup & resources]
 
+|   Topic     |    Resources   |
+|   ---      |   ---     | 
+|  Azure AI Studio       |  - [Azure AI Studio or Copilot Studio](..) | 
+
+
 ## Azure AI Session & Resources
 
 ### Day 1
@@ -11,7 +16,19 @@ In this repository you find all the resources shared from Azure AI.
 |   ---      |   ---     |   ---        |
 |  6PM       |  [Azure AI Studio or Copilot Studio](..) | 
 
+### Day 2
+|   Time     |   Session |   Resources   |
+|   ---      |   ---     |   ---        |
+|  6PM       |  [Azure AI Studio or Copilot Studio](..) | 
+
+### Day 3
+|   Time     |   Session |   Resources   |
+|   ---      |   ---     |   ---        |
+|  6PM       |  [Azure AI Studio or Copilot Studio](..) | 
+
+
 ## Community Area Schedule
+
 
 
 ## AI Platform user research panel
