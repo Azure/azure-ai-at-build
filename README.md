@@ -2,6 +2,13 @@
 
 In this repository you find all the resources shared from Azure AI.
 
+## Top Resources
+- Join the Discord
+- Get your AI Badge in the Community Booth
+- [AI Platform user research panel](https://ux.microsoft.com/Panel/AzureAI?utm_campaign=Build&utm_source=Build&utm_medium=Build)
+
+
+
 ## Expert Meetup & resources]
 
 |   Topic     |    Resources   |
@@ -29,11 +36,9 @@ In this repository you find all the resources shared from Azure AI.
 
 ## Community Area Schedule
 
-
-
-## AI Platform user research panel
-### https://ux.microsoft.com/Panel/AzureAI?utm_campaign=Build&utm_source=Build&utm_medium=Build
-
+|   Time     |   Session |   Resources   |
+|   ---      |   ---     |   ---        |
+|  6PM       |  [Azure AI Studio or Copilot Studio](..) | 
 
 
 ## Trademarks
