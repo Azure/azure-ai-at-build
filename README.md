@@ -3,9 +3,9 @@
 In this repository you find all the resources shared from Azure AI.
 
 ## Top Resources
+[![](https://dcbadge.vercel.app/api/server/ByRwuEEgH4)](https://aka.ms/AzureAI/Discord)
 - [**Submit AI Product Feedback here**](https://ai/feedback)
 - [Sign up for Azure AI Research to receive feedback surveys and interview invites to help influence our product experiences]()
-- [Join the Azure AI Discord](https://aka.ms/AzureAI/Discord )
 - Get your AI Badge in the Community Booth
 - Check out these samples launched at Build 2024
   - [Retail chat application in python](https://github.com/Azure-Samples/contoso-chat)
