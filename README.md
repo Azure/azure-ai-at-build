@@ -8,7 +8,7 @@ In this repository you find all the resources shared from Azure AI.
 - [Join the Azure AI Discord](https://aka.ms/AzureAI/Discord )
 - Get your AI Badge in the Community Booth
 - Check out these samples launched at Build 2024
-  -[Retail chat application in python](https://github.com/Azure-Samples/contoso-chat)
+  - [Retail chat application in python](https://github.com/Azure-Samples/contoso-chat)
   - [Retail chat application in c#](https://github.com/Azure-Samples/contoso-chat-csharp-prompty)
   - [Ticket summarization with speech-to-text in python](https://github.com/Azure-Samples/summarization-openai-python-promptflow?tab=readme-ov-file#updated-commands)
   - [Ticket summarization with speech-to-text in c#](https://github.com/Azure-Samples/summarization-openai-csharp-prompty)
