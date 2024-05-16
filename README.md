@@ -124,7 +124,7 @@ In this repository you find all the resources shared from Azure AI.
 |   Time     |   Session |   Resources   |
 |   ---      |   ---     |   ---        |
 |  8:30AM      |   [Accessibility in the era of generative AI](https://build.microsoft.com/sessions/7c13f996-b672-46d2-bd82-982ca11a5bef?source=sessions)     |  
-|  8:30am      |   [Grow your business with Copilot extensions and marketplace](https://build.microsoft.com/sessions/166cf212-514b-490a-b40a-0f92164e42e5?source=sessions)     |   
+|  8:30AM      |   [Grow your business with Copilot extensions and marketplace](https://build.microsoft.com/sessions/166cf212-514b-490a-b40a-0f92164e42e5?source=sessions)     |   
 |  8:45AM       |  [Generative AI from your local machine to Azure with LangChain](https://build.microsoft.com/sessions/9390ceb4-2887-4b24-870f-4e55c716e76f?source=sessions) | 
 |  9:00AM      |   [What's new for Copilot in Visual Studio 17.10](https://build.microsoft.com/sessions/1134891a-914e-4af6-ba87-bd7b2a52f872?source=sessions)     |   
 |  9:45AM       |  [Learn how to interact with Large Language Models](https://build.microsoft.com/sessions/f2c631ee-4f32-488d-9739-3f3c99010717?source=sessions) | 
