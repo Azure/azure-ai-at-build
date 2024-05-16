@@ -113,11 +113,14 @@ In this repository you find all the resources shared from Azure AI.
 
 
 
-## Community Area Schedule
+## Community Area Exec Meet-up Schedule
 
-|   Time     |   Session |   Resources   |
-|   ---      |   ---     |   ---        |
-|  6PM       |  [Azure AI Studio or Copilot Studio](..) | 
+| Date | Time | Execuctive | Topic Area |
+| ---  | ---  | ---------  | ---------- |
+| May 21st | 1:00pm - 1:30pm | Marco Casalaina | Azure AI Platform |
+| May 21st | 11am - 11:30am | Sarah Bird | Responsible AI |
+| May 22nd | 10am - 10:30am | Marco Casalaina | Azure AI Platform | 
+| May 23rd | 1:00pm - 1:30pm | Pablo Castro | Azure AI Search and RAG |
 
 
 ## Trademarks
