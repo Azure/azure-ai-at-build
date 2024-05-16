@@ -123,26 +123,46 @@ In this repository you find all the resources shared from Azure AI.
 ### Day 3
 |   Time     |   Session |   Resources   |
 |   ---      |   ---     |   ---        |
+|  8:30AM      |   [Accessibility in the era of generative AI](https://build.microsoft.com/sessions/7c13f996-b672-46d2-bd82-982ca11a5bef?source=sessions)     |  
+|  8:30am      |   [Grow your business with Copilot extensions and marketplace](https://build.microsoft.com/sessions/166cf212-514b-490a-b40a-0f92164e42e5?source=sessions)     |   
 |  8:45AM       |  [Generative AI from your local machine to Azure with LangChain](https://build.microsoft.com/sessions/9390ceb4-2887-4b24-870f-4e55c716e76f?source=sessions) | 
+|  9:00AM      |   [What's new for Copilot in Visual Studio 17.10](https://build.microsoft.com/sessions/1134891a-914e-4af6-ba87-bd7b2a52f872?source=sessions)     |   
 |  9:45AM       |  [Learn how to interact with Large Language Models](https://build.microsoft.com/sessions/f2c631ee-4f32-488d-9739-3f3c99010717?source=sessions) | 
 |  9:45AM       |  [Imagine Cup: Weeg, bridging the digital divide in remote areas](https://build.microsoft.com/sessions/4d498f25-19da-4fbd-93a0-941a7fdabca0?source=sessions) | 
-|  10AM       |  [From Data to Action: Unleashing Flink's Power with Confluent on Azure](https://build.microsoft.com/sessions/754e812c-ff15-4edd-b726-12b6d0d25622?source=sessions) | 
+|   9:45AM      |  [Building Copilots - key lessons and best practices](https://build.microsoft.com/sessions/ae6623b3-6499-4fdf-bdd8-c16307d6671c?source=sessions)     |   
+|  10AM       |  [From Data to Action: Unleashing Flink's Power with Confluent on Azure](https://build.microsoft.com/sessions/754e812c-ff15-4edd-b726-12b6d0d25622?source=sessions) |
+|  10:15AM      |   [Build Copilot plugins in 10 minutes with VS Code](https://build.microsoft.com/sessions/ae127124-8d21-4e17-bd05-5360750abbad?source=sessions)     |   
 |  11AM       |  [Discover Oracle Database@Azure, a new opportunity for developers](https://build.microsoft.com/sessions/0134986d-1722-4365-8062-4e73b4d8b6dc?source=sessions) | 
 |  11AM       |  [End-to-End AI Development: A Practical Approach](https://build.microsoft.com/sessions/86e41e8b-1fd2-40fa-a608-6f99a28d4a61?source=sessions) | 
 |  11AM       |  [Revamping the Document Automation Workflow with Generative AI](https://build.microsoft.com/sessions/c1c03443-826a-4c01-9e97-a683cf28404a?source=sessions) | 
 |  11AM       |  [Bring your copilots to life with a customized visual identity](https://build.microsoft.com/sessions/a86df8dd-5684-4c4c-8b28-b0e840a1c416?source=sessions) | 
+|  11AM      |   [Build your own copilot on Teams with Teams Toolkit and Azure AI Studio](https://build.microsoft.com/sessions/54ae2b73-0445-4493-b6ca-3d7bb008ab15?source=sessions)     |  
 |  11:30AM       |  [Power your AI Transformation with Microsoft Learn](https://build.microsoft.com/sessions/6170d4ca-694d-475c-bfc0-ee825d269a29?source=sessions) | 
+|  11:30AM      |   [Maximize Power Platform and Source Control](https://build.microsoft.com/sessions/8b2ad81b-af28-4ab1-b786-b99eb396138a?source=sessions)     |   
 |  12:30PM       |  [Advanced RAG with Azure AI Search - top questions answered](https://build.microsoft.com/sessions/701ff4a8-a3ab-4da9-b5f6-e0abe6d523d0?source=sessions) | 
 |  12:30PM       |  [Build and run intelligent apps with AKS and Azure OpenAI Service](https://build.microsoft.com/sessions/c622e560-6871-43fe-b4f3-269a68ff67cf?source=sessions) | 
+|  12:30PM      |   [Extending Copilot for Sales with Microsoft Copilot Studio](https://build.microsoft.com/sessions/c92451c3-c5b8-468c-a5c2-e8dd6e761861?source=sessions)     |   
+|  12:45PM      |   [Create engaging communications content using Microsoft Designer](https://build.microsoft.com/sessions/60915044-009c-446d-b601-bba7a79e9a2f?source=sessions)     |   
 |  1PM       |  [Build AI faster with task-optimized language models in Azure AI](https://build.microsoft.com/sessions/e157dcc7-1abf-42d6-b4a2-fbeaed456038?source=sessions) | 
 |  1PM       |  [Produce AI-assisted quality code with speed and confidence​](https://build.microsoft.com/sessions/1ac948c9-d060-48ee-a4fc-6488c0d29691?source=sessions) | 
+|  1PM     |   [Produce AI-assisted quality code with speed and confidence​](https://build.microsoft.com/sessions/1ac948c9-d060-48ee-a4fc-6488c0d29691?source=sessions)     |   
+|  1:15PM      |   [Build a conversational AI app using enterprise data](https://build.microsoft.com/sessions/a2cd051f-5221-4397-a5c7-4cd6d7a1c1b9?source=sessions)     |   
+|  1:45PM      |   [Extending GitHub Copilot](https://build.microsoft.com/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41?source=sessions)     | 
+|  1:45PM      |   [Build your own copilot on Teams with Teams Toolkit and Azure AI Studio](https://build.microsoft.com/sessions/3835147e-2e56-4f69-8f46-f54a3180fd5c?source=sessions)     |   
 |  2PM       |  [Bring AI-enhanced workflows to life with Terraform and Azure](https://build.microsoft.com/sessions/88e27bc3-90d0-42cd-b0dc-d7d42e51a11e?source=sessions) | 
 |  2PM       |  [Revolutionizing search and retrieval with Azure AI Search](https://build.microsoft.com/sessions/c0700fcc-9ef6-4cc2-ad72-a904c117394a?source=sessions) | 
 |  2:45PM       |  [Imagine Cup: UpEase, using AI to transform higher education](https://build.microsoft.com/sessions/d43f3b7c-bf4a-4e73-b694-507c82a70599?source=sessions) | 
 |  3PM       |  [Practicalities of Fine-Tuning Llama 2 with AI Studio](https://build.microsoft.com/sessions/78e4ef86-4443-4cb6-a0b4-157a6623fe87?source=sessions) | 
 |  3PM       |  [Combine Semantic Kernel with your existing apps and services](https://build.microsoft.com/sessions/13aeb26c-a188-418c-b37c-52ee6e58b322?source=sessions) | 
+|  3PM      |   [Enhancing VS Code extensions with GitHub Copilot](https://build.microsoft.com/sessions/57efc1aa-83c0-45c5-b8c3-ad095478bb0a?source=sessions)     |   
+|  3PM      |   [Transforming the most valuable industry workflows with Copilot](https://build.microsoft.com/sessions/90aff741-26a6-490b-9793-f4747895d5c0?source=sessions)     |   
+|  3PM      |   [Build your own copilot with Microsoft Copilot studio](https://build.microsoft.com/sessions/eef80f17-1db7-4f5a-93d0-f6d0a7eb4487?source=sessions)     |   
+|  3PM      |   [Build, Evaluate and Deploy a RAG-based retail copilot with Azure AI](https://build.microsoft.com/sessions/464ea5ff-d294-485d-af14-86272422df3c?source=sessions)     |   
+|  3PM      |   [Extend Copilot for Sales with data & insights from any sales app](https://build.microsoft.com/sessions/1a78b339-c1c1-42ac-b25b-cbba716b024e?source=sessions)    |   
 |  4:15PM       |  [Transforming the future of startups with Microsoft AI](https://build.microsoft.com/sessions/b491331f-fa4a-40c8-adb6-00ce6430f135?source=sessions) | 
-|  4:30PM       |  [Optimize your AI models with ONNX Runtime for inferencing at the edge](https://build.microsoft.com/sessions/20285006-7f3d-4c1f-b7de-eb58712d2507?source=sessions) | 
+|  4:15PM      |   [Extend Copilot for Microsoft 365 with Azure Communication Services](https://build.microsoft.com/sessions/5d59e9b5-43a8-4f84-a397-a7d9026f6dfe?source=sessions)     |  
+|  4:30PM       |  [Optimize your AI models with ONNX Runtime for inferencing at the edge](https://build.microsoft.com/sessions/20285006-7f3d-4c1f-b7de-eb58712d2507?source=sessions) |
+|  4:45PM      |   [Build your own copilot with Microsoft Copilot Studio](https://build.microsoft.com/sessions/b64979be-9d1a-4bde-881c-d3cea39a6c33?source=sessions)    |   
 
 
 
