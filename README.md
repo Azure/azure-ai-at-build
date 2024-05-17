@@ -23,7 +23,7 @@ In this repository you find all the resources shared from Azure AI.
 |   Topic     |    Resources   |
 |   ---      |   ---     | 
 |  Azure AI Studio       |  - [Azure AI Studio or Copilot Studio](..) | 
-|  AI Safety and Responsibility | [Tools and Practices](https://www.microsoft.com/ai/tools-practices) |
+|  AI Safety and Responsibility | [Learn Collection](https://learn.microsoft.com/collections/wrdxbjpj34m1kz) |
 |  Models as a Service (MaaS)   | |
 |  Multimodal AI models with Azure OpenAI Service and AI Services | |
 |  AI and accessibility         | [Innovation Toolkit](https://aka.ms/InnovationToolkit), [IDC Cognition Toolkit](https://aka.ms/IDCognitionToolkit) | 
