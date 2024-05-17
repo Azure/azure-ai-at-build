@@ -17,20 +17,18 @@ In this repository you find all the resources shared from Azure AI.
 
 ## Expert Meetup & resources
 
+
 |   Topic     |    Resources   |
 |   ---      |   ---     | 
-|  Azure AI Studio       |  - [Azure AI Studio or Copilot Studio](..) | 
+|  Azure AI Studio       |  [What is Azure AI Studio?](https://learn.microsoft.com/en-us/azure/ai-studio/what-is-ai-studio?tabs=home) | 
 |  AI Safety and Responsibility | [Tools and Practices](https://www.microsoft.com/ai/tools-practices) |
-|  Models as a Service (MaaS)   | |
-|  Multimodal AI models with Azure OpenAI Service and AI Services | |
+|  Models as a Service (MaaS)   | [Explore our MaaS models in the model catalog!](https://ai.azure.com/explore/models?tid=72f988bf-86f1-41af-91ab-2d7cd011db47) |
+|  Multimodal AI models with Azure OpenAI Service and AI Services | [Checkout GPT-4o: OpenAI’s new flagship multimodal model now in preview on Azure](https://azure.microsoft.com/en-us/blog/introducing-gpt-4o-openais-new-flagship-multimodal-model-now-in-preview-on-azure/) |
 |  AI and accessibility         | [Innovation Toolkit](https://aka.ms/InnovationToolkit), [IDC Cognition Toolkit](https://aka.ms/IDCognitionToolkit) | 
-|  Azure AI Studio and LLMOps   | | 
-|  Small models for practical solutions | |
-|  RAG with Azure AI Search     | | 
-|  Innovate with AI tools       | | 
+|  Azure AI Studio and LLMOps   | [Checkout this deep dive from Ignite](https://www.youtube.com/watch?v=DdOylyrTOWg), and our most up to date **Contoso Chat LLMOps** sample in [Python](https://github.com/Azure-Samples/contoso-chat) and [C#/.NET](https://github.com/Azure-Samples/contoso-chat-csharp-prompty/tree/main) |
+|  RAG with Azure AI Search     | [Explore the most popular sample application showcasing RAG with AI Search](https://github.com/Azure-Samples/azure-search-openai-demo) | 
+|  Innovate with AI tools       | Check out our newest prompt creation asset [Prompty](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.prompty)| 
 |  AI Dev Community             | | 
- 
-
 
 ## Azure AI Session & Resources
 
