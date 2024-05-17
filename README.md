@@ -11,8 +11,10 @@ In this repository you find all the resources shared from Azure AI.
 ### Samples
 - Check out our new [AI Samples collection](https://aka.ms/azd-ai-templates) released at MS Build 2024 
   - and more in the [template gallery](https://aka.ms/ai-apps)
-### Learning
+### Reading
 - [Generative AI in Action](https://blog.desigeek.com/post/2023/11/announcing-gen-ai-book/) from expert Amit Bahree on the Azure AI platform team
+### Video
+- Check out [The AI Show](https://www.youtube.com/@theaishowlive/videos) channel for in-depth videos from industry experts.
 ### Product 
 - Try [Azure AI Studio](https://aka.ms/azureaistudio)!
 - Try our latest SLM [Phi-3](https://aka.ms/try-phi3)!
