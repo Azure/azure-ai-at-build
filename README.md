@@ -12,7 +12,12 @@ In this repository you find all the resources shared from Azure AI.
 - Check out our new [AI Samples collection](https://aka.ms/azd-ai-templates) released at MS Build 2024 
   - and more in the [template gallery](https://aka.ms/ai-apps)
 ### Learning
-- [Generative AI in Action](https://blog.desigeek.com/post/2023/11/announcing-gen-ai-book/) from expert Amit Bahree on the Azure AI platform team 
+- [Generative AI in Action](https://blog.desigeek.com/post/2023/11/announcing-gen-ai-book/) from expert Amit Bahree on the Azure AI platform team
+### Product 
+- Try [Azure AI Studio](https://aka.ms/azureaistudio)!
+- Try our latest SLM [Phi-3](https://aka.ms/try-phi3)!
+- Try OpenAI's latest model [GPT-4o](https://aka.ms/gpt-4o-playground)!
+- Try our newest prompt asset in VS Code... [Prompty](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.prompty)!
 ### Misc
 - **If you are on site** get your AI Badge in the Community Booth
         
