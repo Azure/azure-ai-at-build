@@ -29,6 +29,16 @@ In this repository you find all the resources shared from Azure AI.
 |  RAG with Azure AI Search     | [Explore the most popular sample application showcasing RAG with AI Search](https://github.com/Azure-Samples/azure-search-openai-demo) | 
 |  Innovate with AI tools       | Check out our newest prompt creation asset [Prompty](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.prompty)| 
 |  AI Dev Community             | Join the [Azure AI Discord](https://aka.ms/build/discord) and checkout the [Global AI Community](https://globalai.community/)| 
+
+## Community Area Exec Meet-up Schedule
+
+| Date | Time | Execuctive | Topic Area |
+| ---  | ---  | ---------  | ---------- |
+| May 21st | 1:00pm - 1:30pm | Marco Casalaina | Azure AI Platform |
+| May 21st | 11am - 11:30am | Sarah Bird | Responsible AI |
+| May 22nd | 10am - 10:30am | Marco Casalaina | Azure AI Platform | 
+| May 23rd | 1:00pm - 1:30pm | Pablo Castro | Azure AI Search and RAG |
+
 ## Azure AI Session & Resources
 
 ### Day 1
@@ -157,17 +167,6 @@ In this repository you find all the resources shared from Azure AI.
 |  4:15PM      |   [Extend Copilot for Microsoft 365 with Azure Communication Services](https://build.microsoft.com/sessions/5d59e9b5-43a8-4f84-a397-a7d9026f6dfe?source=sessions)     |  
 |  4:30PM       |  [Optimize your AI models with ONNX Runtime for inferencing at the edge](https://build.microsoft.com/sessions/20285006-7f3d-4c1f-b7de-eb58712d2507?source=sessions) |
 |  4:45PM      |   [Build your own copilot with Microsoft Copilot Studio](https://build.microsoft.com/sessions/b64979be-9d1a-4bde-881c-d3cea39a6c33?source=sessions)    |   
-
-
-
-## Community Area Exec Meet-up Schedule
-
-| Date | Time | Execuctive | Topic Area |
-| ---  | ---  | ---------  | ---------- |
-| May 21st | 1:00pm - 1:30pm | Marco Casalaina | Azure AI Platform |
-| May 21st | 11am - 11:30am | Sarah Bird | Responsible AI |
-| May 22nd | 10am - 10:30am | Marco Casalaina | Azure AI Platform | 
-| May 23rd | 1:00pm - 1:30pm | Pablo Castro | Azure AI Search and RAG |
 
 
 ## Trademarks
