@@ -54,8 +54,8 @@ In this repository you find all the resources shared from Azure AI.
 ## Azure AI Session & Resources
 
 ### Day 1
-|   Time     |   Session | 
-|   ---      |   ---     | 
+|   Time     |   Session | Resources |
+|   ---      |   ---     | ----------------- | 
 |  9AM       |  [Microsoft Build opening keynote](https://build.microsoft.com/sessions/b49feb31-afcd-4217-a538-d3ca1d171198?source=sessions) | 
 |  11:30AM       |  [AI Everywhere – Accelerate your development from the edge to cloud](https://build.microsoft.com/sessions/d70bd37a-9846-4891-80df-35206856011c?source=sessions) |
 |  11:30AM     |   [Azure AI Studio - Creating and scaling your custom copilots](https://build.microsoft.com/sessions/a2afdc04-a6eb-4079-9f91-25858a588661?source=sessions) |      
@@ -92,8 +92,8 @@ In this repository you find all the resources shared from Azure AI.
 |  5:15PM       |  [Multimodal use cases with GPT and Azure AI Vision](https://build.microsoft.com/sessions/53bbdfac-a935-4f8f-9400-49e5324710f4?source=sessions) |
 
 ### Day 2
-|   Time     |   Session | 
-|   ---      |   ---     |  
+|   Time     |   Session | Resources |
+|   ---      |   ---     |  ---------------  |
 |  8:30AM       |  [Next generation AI for developers with the Microsoft Cloud](https://build.microsoft.com/sessions/226c764e-ab30-4ec3-b8ce-53eb230dcfe0?source=sessions) | 
 |  10:30AM       |  [RAG at scale: production-ready GenAI apps with Azure AI Search](https://build.microsoft.com/sessions/ff81130c-db16-4120-bc08-2061f911e6e1?source=sessions) | 
 |  10:30AM       |  [Safeguard user and AI-generated content with Azure AI Content Safety](https://build.microsoft.com/sessions/41dcde46-f72b-4cbc-80d1-c019e8d1af2a?source=sessions) |
@@ -137,8 +137,8 @@ In this repository you find all the resources shared from Azure AI.
 |  6PM      |   [Building a copilot: Azure AI Studio or Copilot Studio](https://build.microsoft.com/sessions/fedf73c3-96e1-4ca2-a459-384be59f9481?source=sessions)     | 
 
 ### Day 3
-|   Time     |   Session |
-|   ---      |   ---     |
+|   Time     |   Session | Resources |
+|   ---      |   ---     | --------  | 
 |  8:30AM      |   [Accessibility in the era of generative AI](https://build.microsoft.com/sessions/7c13f996-b672-46d2-bd82-982ca11a5bef?source=sessions)     |  
 |  8:30AM      |   [Grow your business with Copilot extensions and marketplace](https://build.microsoft.com/sessions/166cf212-514b-490a-b40a-0f92164e42e5?source=sessions)     |   
 |  8:45AM       |  [Generative AI from your local machine to Azure with LangChain](https://build.microsoft.com/sessions/9390ceb4-2887-4b24-870f-4e55c716e76f?source=sessions) | 
