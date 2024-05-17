@@ -3,7 +3,7 @@
 In this repository you find all the resources shared from Azure AI.
 
 ## Top Resources
-[![](https://dcbadge.vercel.app/api/server/ByRwuEEgH4)](https://aka.ms/gaic/discord)
+[![](https://dcbadge.vercel.app/api/server/ByRwuEEgH4)](https://aka.ms/build/discord)
 - MVPs/RDs [**Submit AI Product Feedback here**](https://ai/feedback)
 - Customers/Partners [**Submit AI Product Feedback here**](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR0gnXMBf5CdKh6uAgNcGWbNUN1lQOVNLVlBTTkNWOEhXN0hZVEhOSzJZTS4u&origin=lprLink)
 - [Sign up for Azure AI Research to receive feedback surveys and interview invites to help influence our product experiences]()
@@ -22,14 +22,13 @@ In this repository you find all the resources shared from Azure AI.
 |   ---      |   ---     | 
 |  Azure AI Studio       |  [What is Azure AI Studio?](https://learn.microsoft.com/en-us/azure/ai-studio/what-is-ai-studio?tabs=home) | 
 |  AI Safety and Responsibility | [Tools and Practices](https://www.microsoft.com/ai/tools-practices) |
-|  Models as a Service (MaaS)   | [Explore our MaaS models in the model catalog!](https://ai.azure.com/explore/models?tid=72f988bf-86f1-41af-91ab-2d7cd011db47) |
+|  Models as a Service (MaaS)   | [Explore our MaaS models in the model catalog!](https://ai.azure.com/explore/models?tid=72f988bf-86f1-41af-91ab-2d7cd011db47), and learn how to finetune a MaaS model in this blog: [RAFT (Retrieval Augmented Fine-tuning):  A new way to teach LLMs to be better at RAG (Retrieval Augmented Generation)](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/raft-a-new-way-to-teach-llms-to-be-better-at-rag/ba-p/4084674?WT_mc_id=aiml-122224-cedricvidal) |
 |  Multimodal AI models with Azure OpenAI Service and AI Services | [Checkout GPT-4o: OpenAI’s new flagship multimodal model now in preview on Azure](https://azure.microsoft.com/en-us/blog/introducing-gpt-4o-openais-new-flagship-multimodal-model-now-in-preview-on-azure/) |
 |  AI and accessibility         | [Innovation Toolkit](https://aka.ms/InnovationToolkit), [IDC Cognition Toolkit](https://aka.ms/IDCognitionToolkit) | 
 |  Azure AI Studio and LLMOps   | [Checkout this deep dive from Ignite](https://www.youtube.com/watch?v=DdOylyrTOWg), and our most up to date **Contoso Chat LLMOps** sample in [Python](https://github.com/Azure-Samples/contoso-chat) and [C#/.NET](https://github.com/Azure-Samples/contoso-chat-csharp-prompty/tree/main) |
 |  RAG with Azure AI Search     | [Explore the most popular sample application showcasing RAG with AI Search](https://github.com/Azure-Samples/azure-search-openai-demo) | 
 |  Innovate with AI tools       | Check out our newest prompt creation asset [Prompty](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.prompty)| 
-|  AI Dev Community             | | 
-
+|  AI Dev Community             | Join the [Azure AI Discord](https://aka.ms/build/discord) and checkout the [Global AI Community](https://globalai.community/)| 
 ## Azure AI Session & Resources
 
 ### Day 1
