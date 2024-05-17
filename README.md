@@ -3,16 +3,25 @@
 In this repository you find all the resources shared from Azure AI.
 
 ## Top Resources
-[![](https://dcbadge.vercel.app/api/server/ByRwuEEgH4)](https://aka.ms/AzureAI/Discord)
-- [**Submit AI Product Feedback here**](https://ai/feedback)
-- [Sign up for Azure AI Research to receive feedback surveys and interview invites to help influence our product experiences]()
-- Get your AI Badge in the Community Booth
-- Check out these samples launched at Build 2024
-  - [Retail chat application in python](https://github.com/Azure-Samples/contoso-chat)
-  - [Retail chat application in c#](https://github.com/Azure-Samples/contoso-chat-csharp-prompty)
-  - [Ticket summarization with speech-to-text in python](https://github.com/Azure-Samples/summarization-openai-python-promptflow?tab=readme-ov-file#updated-commands)
-  - [Ticket summarization with speech-to-text in c#](https://github.com/Azure-Samples/summarization-openai-csharp-prompty)
+[![](https://dcbadge.vercel.app/api/server/ByRwuEEgH4)](https://aka.ms/build/discord)
+### Feedback
+- MVPs/RDs [**Submit AI Product Feedback here**](https://ai/feedback)
+- Customers/Partners [**Submit AI Product Feedback here**](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR0gnXMBf5CdKh6uAgNcGWbNUN1lQOVNLVlBTTkNWOEhXN0hZVEhOSzJZTS4u&origin=lprLink)
+- [Sign up for Azure AI Research](https://ux.microsoft.com/Panel/AzureAI?utm_campaign=Build&utm_source=Build&utm_medium=Build) to receive feedback surveys and interview invites to help influence our product experiences
+### Samples
+- Check out our new [AI Samples collection](https://aka.ms/azd-ai-templates) released at MS Build 2024 
   - and more in the [template gallery](https://aka.ms/ai-apps)
+### Reading
+- [Generative AI in Action](https://blog.desigeek.com/post/2023/11/announcing-gen-ai-book/) from expert Amit Bahree on the Azure AI platform team
+### Video
+- Check out [The AI Show](https://www.youtube.com/@theaishowlive/videos) channel for in-depth videos from industry experts.
+### Product 
+- Try [Azure AI Studio](https://aka.ms/azureaistudio)!
+- Try our latest SLM [Phi-3](https://aka.ms/try-phi3)!
+- Try OpenAI's latest model [GPT-4o](https://aka.ms/gpt-4o-playground)!
+- Try our newest prompt asset in VS Code... [Prompty](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.prompty)!
+### Misc
+- **If you are on site** get your AI Badge in the Community Booth
         
 
 
@@ -20,26 +29,33 @@ In this repository you find all the resources shared from Azure AI.
 
 ## Expert Meetup & resources
 
+
 |   Topic     |    Resources   |
 |   ---      |   ---     | 
-|  Azure AI Studio       |  - [Azure AI Studio or Copilot Studio](..) | 
-|  AI Safety and Responsibility | [Learn Collection](https://learn.microsoft.com/collections/wrdxbjpj34m1kz) |
-|  Models as a Service (MaaS)   | |
-|  Multimodal AI models with Azure OpenAI Service and AI Services | |
+|  Azure AI Studio       |  [What is Azure AI Studio?](https://learn.microsoft.com/en-us/azure/ai-studio/what-is-ai-studio?tabs=home) | 
+|  AI Safety and Responsibility | [Tools and Practices](https://www.microsoft.com/ai/tools-practices) |
+|  Models as a Service (MaaS)   | [Explore our MaaS models in the model catalog!](https://ai.azure.com/explore/models?tid=72f988bf-86f1-41af-91ab-2d7cd011db47), and learn how to finetune a MaaS model in this blog: [RAFT (Retrieval Augmented Fine-tuning):  A new way to teach LLMs to be better at RAG (Retrieval Augmented Generation)](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/raft-a-new-way-to-teach-llms-to-be-better-at-rag/ba-p/4084674?WT_mc_id=aiml-122224-cedricvidal) |
+|  Multimodal AI models with Azure OpenAI Service and AI Services | [Checkout GPT-4o: OpenAI’s new flagship multimodal model now in preview on Azure](https://azure.microsoft.com/en-us/blog/introducing-gpt-4o-openais-new-flagship-multimodal-model-now-in-preview-on-azure/) |
 |  AI and accessibility         | [Innovation Toolkit](https://aka.ms/InnovationToolkit), [IDC Cognition Toolkit](https://aka.ms/IDCognitionToolkit) | 
-|  Azure AI Studio and LLMOps   | | 
-|  Small models for practical solutions | |
-|  RAG with Azure AI Search     | | 
-|  Innovate with AI tools       | | 
-|  AI Dev Community             | | 
- 
+|  Azure AI Studio and LLMOps   | [Checkout this deep dive from Ignite](https://www.youtube.com/watch?v=DdOylyrTOWg), and our most up to date **Contoso Chat LLMOps** sample in [Python](https://github.com/Azure-Samples/contoso-chat) and [C#/.NET](https://github.com/Azure-Samples/contoso-chat-csharp-prompty/tree/main) |
+|  RAG with Azure AI Search     | [Explore the most popular sample application showcasing RAG with AI Search](https://github.com/Azure-Samples/azure-search-openai-demo) | 
+|  Innovate with AI tools       | Check out our newest prompt creation asset [Prompty](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.prompty)| 
+|  AI Dev Community             | Join the [Azure AI Discord](https://aka.ms/build/discord) and checkout the [Global AI Community](https://globalai.community/)| 
 
+## Community Area Exec Meet-up Schedule
+
+| Date | Time | Execuctive | Topic Area |
+| ---  | ---  | ---------  | ---------- |
+| May 21st | 1:00pm - 1:30pm | Marco Casalaina | Azure AI Platform |
+| May 21st | 11am - 11:30am | Sarah Bird | Responsible AI |
+| May 22nd | 10am - 10:30am | Marco Casalaina | Azure AI Platform | 
+| May 23rd | 1:00pm - 1:30pm | Pablo Castro | Azure AI Search and RAG |
 
 ## Azure AI Session & Resources
 
 ### Day 1
-|   Time     |   Session |   Resources   |
-|   ---      |   ---     |   ---        |
+|   Time     |   Session | 
+|   ---      |   ---     | 
 |  9AM       |  [Microsoft Build opening keynote](https://build.microsoft.com/sessions/b49feb31-afcd-4217-a538-d3ca1d171198?source=sessions) | 
 |  11:30AM       |  [AI Everywhere – Accelerate your development from the edge to cloud](https://build.microsoft.com/sessions/d70bd37a-9846-4891-80df-35206856011c?source=sessions) |
 |  11:30AM     |   [Azure AI Studio - Creating and scaling your custom copilots](https://build.microsoft.com/sessions/a2afdc04-a6eb-4079-9f91-25858a588661?source=sessions) |      
@@ -76,8 +92,8 @@ In this repository you find all the resources shared from Azure AI.
 |  5:15PM       |  [Multimodal use cases with GPT and Azure AI Vision](https://build.microsoft.com/sessions/53bbdfac-a935-4f8f-9400-49e5324710f4?source=sessions) |
 
 ### Day 2
-|   Time     |   Session |   Resources   |
-|   ---      |   ---     |   ---        |
+|   Time     |   Session | 
+|   ---      |   ---     |  
 |  8:30AM       |  [Next generation AI for developers with the Microsoft Cloud](https://build.microsoft.com/sessions/226c764e-ab30-4ec3-b8ce-53eb230dcfe0?source=sessions) | 
 |  10:30AM       |  [RAG at scale: production-ready GenAI apps with Azure AI Search](https://build.microsoft.com/sessions/ff81130c-db16-4120-bc08-2061f911e6e1?source=sessions) | 
 |  10:30AM       |  [Safeguard user and AI-generated content with Azure AI Content Safety](https://build.microsoft.com/sessions/41dcde46-f72b-4cbc-80d1-c019e8d1af2a?source=sessions) |
@@ -121,8 +137,8 @@ In this repository you find all the resources shared from Azure AI.
 |  6PM      |   [Building a copilot: Azure AI Studio or Copilot Studio](https://build.microsoft.com/sessions/fedf73c3-96e1-4ca2-a459-384be59f9481?source=sessions)     | 
 
 ### Day 3
-|   Time     |   Session |   Resources   |
-|   ---      |   ---     |   ---        |
+|   Time     |   Session |
+|   ---      |   ---     |
 |  8:30AM      |   [Accessibility in the era of generative AI](https://build.microsoft.com/sessions/7c13f996-b672-46d2-bd82-982ca11a5bef?source=sessions)     |  
 |  8:30AM      |   [Grow your business with Copilot extensions and marketplace](https://build.microsoft.com/sessions/166cf212-514b-490a-b40a-0f92164e42e5?source=sessions)     |   
 |  8:45AM       |  [Generative AI from your local machine to Azure with LangChain](https://build.microsoft.com/sessions/9390ceb4-2887-4b24-870f-4e55c716e76f?source=sessions) | 
@@ -163,17 +179,6 @@ In this repository you find all the resources shared from Azure AI.
 |  4:15PM      |   [Extend Copilot for Microsoft 365 with Azure Communication Services](https://build.microsoft.com/sessions/5d59e9b5-43a8-4f84-a397-a7d9026f6dfe?source=sessions)     |  
 |  4:30PM       |  [Optimize your AI models with ONNX Runtime for inferencing at the edge](https://build.microsoft.com/sessions/20285006-7f3d-4c1f-b7de-eb58712d2507?source=sessions) |
 |  4:45PM      |   [Build your own copilot with Microsoft Copilot Studio](https://build.microsoft.com/sessions/b64979be-9d1a-4bde-881c-d3cea39a6c33?source=sessions)    |   
-
-
-
-## Community Area Exec Meet-up Schedule
-
-| Date | Time | Execuctive | Topic Area |
-| ---  | ---  | ---------  | ---------- |
-| May 21st | 1:00pm - 1:30pm | Marco Casalaina | Azure AI Platform |
-| May 21st | 11am - 11:30am | Sarah Bird | Responsible AI |
-| May 22nd | 10am - 10:30am | Marco Casalaina | Azure AI Platform | 
-| May 23rd | 1:00pm - 1:30pm | Pablo Castro | Azure AI Search and RAG |
 
 
 ## Trademarks
