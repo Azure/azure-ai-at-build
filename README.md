@@ -33,7 +33,7 @@ In this repository you find all the resources shared from Azure AI.
 |   Topic     |    Resources   |
 |   ---      |   ---     | 
 |  Azure AI Studio       |  [What is Azure AI Studio?](https://learn.microsoft.com/en-us/azure/ai-studio/what-is-ai-studio?tabs=home) | 
-|  AI Safety and Responsibility | [Tools and Practices](https://www.microsoft.com/ai/tools-practices) |
+|  AI Safety and Responsibility | [Learn Collection](https://learn.microsoft.com/collections/wrdxbjpj34m1kz) |
 |  Models as a Service (MaaS)   | [Explore our MaaS models in the model catalog!](https://ai.azure.com/explore/models?tid=72f988bf-86f1-41af-91ab-2d7cd011db47), and learn how to finetune a MaaS model in this blog: [RAFT (Retrieval Augmented Fine-tuning):  A new way to teach LLMs to be better at RAG (Retrieval Augmented Generation)](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/raft-a-new-way-to-teach-llms-to-be-better-at-rag/ba-p/4084674?WT_mc_id=aiml-122224-cedricvidal) |
 |  Multimodal AI models with Azure OpenAI Service and AI Services | [Checkout GPT-4o: OpenAI’s new flagship multimodal model now in preview on Azure](https://azure.microsoft.com/en-us/blog/introducing-gpt-4o-openais-new-flagship-multimodal-model-now-in-preview-on-azure/) |
 |  AI and accessibility         | [Innovation Toolkit](https://aka.ms/InnovationToolkit), [IDC Cognition Toolkit](https://aka.ms/IDCognitionToolkit) | 
