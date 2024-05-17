@@ -6,7 +6,7 @@ In this repository you find all the resources shared from Azure AI.
 [![](https://dcbadge.vercel.app/api/server/ByRwuEEgH4)](https://aka.ms/build/discord)
 - MVPs/RDs [**Submit AI Product Feedback here**](https://ai/feedback)
 - Customers/Partners [**Submit AI Product Feedback here**](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR0gnXMBf5CdKh6uAgNcGWbNUN1lQOVNLVlBTTkNWOEhXN0hZVEhOSzJZTS4u&origin=lprLink)
-- [Sign up for Azure AI Research to receive feedback surveys and interview invites to help influence our product experiences]()
+- [Sign up for Azure AI Research](https://ux.microsoft.com/Panel/AzureAI?utm_campaign=Build&utm_source=Build&utm_medium=Build) to receive feedback surveys and interview invites to help influence our product experiences
 - Check out our new [AI Samples collection](https://aka.ms/azd-ai-templates) released at MS Build 2024 
   - and more in the [template gallery](https://aka.ms/ai-apps)
 - **If you are on site** get your AI Badge in the Community Booth
