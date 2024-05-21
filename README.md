@@ -21,6 +21,7 @@ In this repository you find all the resources shared from Azure AI.
 - Try our newest prompt asset in VS Code... [Prompty](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.prompty)!
 ### Find more announcements
 - In the MS Build [Book of News](https://news.microsoft.com/build-2024-book-of-news/)
+- In [AOAI Updates](https://aka.ms/AOAIUpdates)
 ### Notes
 - **If you are on site** get your AI Badge in the Community Booth
         
