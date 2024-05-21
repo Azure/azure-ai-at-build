@@ -22,6 +22,7 @@ In this repository you find all the resources shared from Azure AI.
 ### Find more announcements
 - In the MS Build [Book of News](https://news.microsoft.com/build-2024-book-of-news/)
 - In [AOAI Updates](https://aka.ms/AOAIUpdates)
+- Get started with Phi-3 using the [Phi-3 cookbook](https://github.com/microsoft/Phi-3CookBook)
 ### Notes
 - **If you are on site** get your AI Badge in the Community Booth
         
