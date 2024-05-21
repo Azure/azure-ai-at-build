@@ -50,8 +50,8 @@ In this repository you find all the resources shared from Azure AI.
 | Date | Time | Execuctive | Topic Area |
 | ---  | ---  | ---------  | ---------- |
 | May 21st | 1:00pm - 1:30pm | Marco Casalaina | Azure AI Platform |
-| May 21st | 11am - 11:30am | Sarah Bird | Responsible AI |
 | May 22nd | 10am - 10:30am | Marco Casalaina | Azure AI Platform | 
+| May 22nd | 1pm - 1:30pm | Sarah Bird | Responsible AI |
 | May 23rd | 1:00pm - 1:30pm | Pablo Castro | Azure AI Search and RAG |
 
 ## Azure AI Session & Resources
