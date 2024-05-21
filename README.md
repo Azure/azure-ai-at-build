@@ -19,7 +19,9 @@ In this repository you find all the resources shared from Azure AI.
 - Try our latest SLM [Phi-3](https://aka.ms/try-phi3)!
 - Try OpenAI's latest model [GPT-4o](https://aka.ms/gpt-4o-playground)!
 - Try our newest prompt asset in VS Code... [Prompty](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.prompty)!
-### Misc
+### Find more announcements
+- In the MS Build [Book of News](https://news.microsoft.com/build-2024-book-of-news/)
+### Notes
 - **If you are on site** get your AI Badge in the Community Booth
         
 
