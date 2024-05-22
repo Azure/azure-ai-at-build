@@ -45,13 +45,18 @@ In this repository you find all the resources shared from Azure AI.
 |  Innovate with AI tools       | Check out our newest prompt creation asset [Prompty](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.prompty)| 
 |  AI Dev Community             | Join the [Azure AI Discord](https://aka.ms/build/discord) and checkout the [Global AI Community](https://globalai.community/)| 
 
-## Community Area Exec Meet-up Schedule
+## Community Area Exec/Expert Meet-up Schedule
 
 | Date | Time | Execuctive | Topic Area |
 | ---  | ---  | ---------  | ---------- |
 | May 21st | 1:00pm - 1:30pm | Marco Casalaina | Azure AI Platform |
 | May 22nd | 10am - 10:30am | Marco Casalaina | Azure AI Platform | 
-| May 22nd | 1pm - 1:30pm | Sarah Bird | Responsible AI |
+| May 22nd | 11am - 11:30am | Sarah Bird | Responsible AI |
+| May 22nd | 12pm - 12:30pm | Evan Chaki | Azure AI |
+| May 22nd | 1:30pm - 2pm | Vinod Kurpad | Azure AI Search | 
+| May 22nd | 2:30pm - 5pm | Arun Sekhar | Azure AI | 
+| May 22nd | 3:30pm - 4pm | Adina Tryfinescu | Azure AI | 
+| May 22nd | 4:00pm - 4:30pm | Pablo Castro | Azure AI Search and RAG | 
 | May 23rd | 1:00pm - 1:30pm | Pablo Castro | Azure AI Search and RAG |
 
 ## Azure AI Session & Resources
