@@ -57,7 +57,8 @@ In this repository you find all the resources shared from Azure AI.
 | May 22nd | 2:30pm - 5pm | Arun Sekhar | Azure AI | 
 | May 22nd | 3:30pm - 4pm | Adina Tryfinescu | Azure AI | 
 | May 22nd | 4:00pm - 4:30pm | Pablo Castro | Azure AI Search and RAG | 
-| May 22nd | 4:30pm - 5pm | Noelle Russell | AI MVP and Expert | 
+| May 22nd | 4:30pm - 5pm | Noelle Russell | AI & Accessibility | 
+| May 23rd | 11:00am - 11:30am | Christian Gero | Azure AI | 
 | May 23rd | 12:30pm - 1:30pm | Panos Periorellis | Azure AI | 
 | May 23rd | 1:00pm - 1:30pm | Pablo Castro | Azure AI Search and RAG |
 
